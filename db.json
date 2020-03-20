@@ -28,7 +28,7 @@
     {"id": "PAPR", "address": 40129, "value":"0" },
     {"id": "ModOnOff", "address": 40130, "value":"0" },
     {"id": "CFR", "address": 40131, "value":"0" },
-    {"id": "FB", address": 40132, "value":"0" },
+    {"id": "FB", "address": 40132, "value":"0" },
     {"id": "AmpOnOff", "address": 40133, "value":"0" },
     {"id": "DpdOnOff", "address": 40134, "value":"0" },
     {"id": "CfrOnOff", "address": 40135, "value":"0" },
