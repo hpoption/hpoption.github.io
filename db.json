@@ -1,0 +1,43 @@
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "modbus": {
+    "Frequency":"123456789.1",
+    "FrequencydecimalPoint":"0",
+    "ExtState":"0",
+    "FrequencyUnderbar":"0",
+    "FrequencyUnitdisplay":"0",
+    "Level":"100.12",
+    "LeveldecimalPoint":"0",
+    "Levelsign":"0",
+    "LevelUnderbar":"0",
+    "ExtState":"0",
+    "WAVEFORM":"0",
+    "DPD":"0",
+    "FBLevel":"0",
+    "PAPR":"0",
+    "ModOnOff":"0",
+    "CFR":"0",
+    "FB":"0",
+    "AmpOnOff":"0",
+    "DpdOnOff":"0",
+    "CfrOnOff":"0",
+    "FbInvertState":"0",
+    "ModeDState":"0",
+    "ModeEState":"0",
+    "ModeFState":"0",
+    "DpdOnOff":"0",
+    "CfrOnOff":"0",
+    "FbOnOff":"0"
+  }
+}
