@@ -15,7 +15,7 @@
     {"id": "Frequency", "address": 40101, "value":"0" },
     {"id": "FrequencydecimalPoint", "address": 40111, "value":"0" },
     {"id": "ExtState", "address": 40114, "value":"0" },
-    {"id": "FrequencyUnderbar", "address": 40115, "value":"" },
+    {"id": "FrequencyUnderbar", "address": 40115, "value":"0" },
     {"id": "FrequencyUnitdisplay", "address": 40116, "value":"0" },
     {"id": "Level", "address": 40117, "value":"0" },
     {"id": "LeveldecimalPoint", "address": 40122, "value":"0" },
