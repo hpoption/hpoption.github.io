@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "modbus": {
-    "Frequency":"0",
+    "Frequency":"123456789.1",
     "FrequencydecimalPoint":"0",
     "ExtState":"0",
     "FrequencyUnderbar":"0",
