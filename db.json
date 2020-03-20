@@ -10,7 +10,7 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
   "modbus": {
     {"id": Frequency, "address": 40101, "value":"0" },
     {"id": FrequencydecimalPoint, "address": 40111, "value":"0" },
